@@ -1,0 +1,46 @@
+.main {
+	width: 1080px;
+	position: relative;
+	padding-left: 200px; 
+}
+
+h1 {
+	font-size: 50px;
+	font-family: Garamond, serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+}
+
+label {
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+}
+
+
+section {
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+
+hr {
+	width: 700px;
+	float: left;
+}
+
+.quizSubmit {
+	font-family: Garamond, serif;
+	font-size: 20px;
+	background-color: tan;
+	border-radius: 10px;
+	padding: 20px;
+	border: 2px solid tan;
+	
+}
+
+.quizSubmit:hover {
+	box-shadow: 0 5px 10px black;
+}
+
